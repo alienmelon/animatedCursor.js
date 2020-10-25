@@ -24,3 +24,5 @@ Then call animatedCursor(); in the page's onLoad, example:
 
 See the index.html as a demo.
 A live demo is also [here](http://tetrageddon.com/animatedCursor/).
+
+![Animated gif demo](http://tetrageddon.com/animatedCursor/DEMO.gif)
