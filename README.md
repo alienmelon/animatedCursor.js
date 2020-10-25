@@ -20,5 +20,7 @@ Then call animatedCursor(); in the page's onLoad, example:
 <body onload="animatedCursor();">
 ```
 
+(You can add more elements and animation arrays by calling "animatedCursorForElement" to set an animation for a desired element.)
+
 See the index.html as a demo.
 A live demo is also [here](http://tetrageddon.com/animatedCursor/).
