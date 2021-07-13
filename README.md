@@ -1,5 +1,7 @@
 # animatedCursor.js
  A simple frame-by-frame animated cursor using JS and CSS cursor:url()...
+ 
+ # [Note: An updated and much better version of animated web cursors is here. Please use that instead. ](https://github.com/alienmelon/animatedWebCursors)
 
 This script changes your cursor to a desired animation, using an array that you populated with your frames (png's).
 
